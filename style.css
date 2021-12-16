@@ -1,0 +1,84 @@
+h3, em { font-style: bold;
+  text-decoration: overline;
+  color: teal;
+  font-size: medium;}
+li em { text-decoration: underline; }
+h4 { font-family: tahoma, arial, sans-serif; 
+     color: aqua;
+     text-align: middle;}
+#test { background-color: navy; 
+        font-style: italic; 
+        text-align: left;}
+.class1 { 
+  background-color: gray;
+  font-size: 16pt;
+  color: ghostwhite;
+}
+.extra span { 
+  color: inherit;
+  border: 1px solid black;
+}
+.lab1float {
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 150px;
+    margin-right: 0px;
+    border: 2px solid yellow;
+}
+.lab2float {
+    float: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 150px;
+    border: 2px solid orange;
+}
+.hwfloat {
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 50%;
+    margin-right: 0px;
+}
+.bg { background-color: white; }
+h1, em  { font-style: bold;
+          font-size: larger;
+          color: aqua; 
+          text-decoration: overline;
+          text-align: center;
+        }
+h2, em { color: blue;
+         text-decoration: underline;
+         font-size: medium;}
+h3  { color: dimgray;
+      font-family: Britannic, elephant, cursive;
+    }
+#ID1 { font-weight: lighter; 
+       color: limegreen;
+       border: groove;
+     }
+.Class1 { font-style: inherit;
+          background-color: silver; }
+#bg1 { background-color: peachpuff; 
+       color: navy;}
+#bg2 { background-color: black;
+       color: ghostwhite; }
+#bg3 { background-color: skyblue; }
+#bg4 { background-color: lightskyblue; }
+#bg5 { background-color: deepskyblue; }
+#bg6 { background-color: lightcyan; 
+       font-size: large;}
+.ex span { font-style: italic;
+           color: rebeccapurple; 
+           background-color: transparent;}
+span { color: red;
+       font-size: 14pt; }
+.borddiv { border: 5px double rebeccapurple; 
+           background-image: url(nature.jpg);
+           background-size: cover;
+           background-repeat: no-repeat; }
+.bordimg { text-align: center;
+           margin-top: 50px;
+           margin-bottom: 50px; 
+         }
